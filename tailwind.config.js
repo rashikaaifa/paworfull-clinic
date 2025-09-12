@@ -7,6 +7,10 @@ module.exports = {
 				primary: "#054A29",
 				secondary: "#F07167",
 			},
+			fontFamily: {
+				montserrat: ["Montserrat", "sans-serif"],
+				baloo: ["Baloo 2", "cursive"],
+			},
 		},
 	},
 	plugins: [],
